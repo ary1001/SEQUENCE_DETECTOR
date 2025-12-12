@@ -15,12 +15,5 @@ Files
 
 waveform.png — Main RTL simulation
 
-gls_waveform.png — Gate-level simulation (optional)
+seq.do — ModelSim run script
 
-sim.log — Full simulation output
-
-compile.do — ModelSim compile script
-
-run.do — ModelSim run script
-
-xrun.sh — Xcelium run script
