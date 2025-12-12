@@ -23,7 +23,7 @@ create_timing_condition -name BC_COND -library_sets {BC_LIBS}
 
 
 
-# 2. Define RC corners (if you don’t have RC files, keep default)
+# 2. Define RC corners (if you donâ€™t have RC files, keep default)
 create_rc_corner -name RC_TYP
 create_rc_corner -name RC_WC
 create_rc_corner -name RC_BC
