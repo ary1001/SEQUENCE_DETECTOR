@@ -1,6 +1,6 @@
 # ####################################################################
 
-#  Simple SDC for Sequence Detector (safe for GitHub)
+#  Auto-generated SDC for Sequence Detector 
 #  Tool: Cadence Genus
 
 # ####################################################################
