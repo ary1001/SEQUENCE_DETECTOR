@@ -1,19 +1,12 @@
-Simulation Overview
+🔎 Simulation Overview
 
-Simulator used: ModelSim 2020 / Xcelium 21.03
-
-Testbench type: Self-checking
-
-Stimulus: 1010110100110
-
-Expected detections: 4
-
-Actual detections: 4 (PASS)
+Simulator Used: ModelSim 
+Input Stimulus: 1010110100110
+Expected Detections: 4
+Actual Detections: 4 ✔️ (PASS)
 
 
-Files
+📁 Files Included
 
-waveform.png — Main RTL simulation
-
-seq.do — ModelSim run script
-
+waveform.png — Captured RTL waveform (ModelSim)
+seq.do — ModelSim automation script 
