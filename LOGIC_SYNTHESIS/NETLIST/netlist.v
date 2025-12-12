@@ -4,7 +4,7 @@
 // All library-specific cell names and drive strengths have been sanitized.
 // ---------------------------------------------------------------------------
 
-module seqdet_clean (
+module seq_detector (
     input  wire in_i,
     input  wire clock_i,
     input  wire areset_ni,
