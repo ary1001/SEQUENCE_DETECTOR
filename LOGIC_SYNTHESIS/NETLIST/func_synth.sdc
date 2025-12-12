@@ -1,6 +1,7 @@
 # ####################################################################
 
-#  Created by Genus(TM) Synthesis Solution 19.12-s121_1 on Wed Oct 15 13:48:50 IST 2025
+#  Simple SDC for Sequence Detector (safe for GitHub)
+#  Tool: Cadence Genus
 
 # ####################################################################
 
